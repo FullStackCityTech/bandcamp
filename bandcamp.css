@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+    margin: 0;
+}
+
+.menu {
+    background-color: white;
+    padding: 20px;
+    height: 100px;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
