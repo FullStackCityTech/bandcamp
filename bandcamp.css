@@ -16,3 +16,9 @@ body {
 .right {
     float: right;
 }
+
+.search {
+    height: 30px;
+    width: 150px;
+    background-color: rgba(212, 193, 193, 0.775);
+}
