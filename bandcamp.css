@@ -15,10 +15,19 @@ body {
 
 .right {
     float: right;
+    margin-right: auto;
+}
+
+.row {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 0 auto; 
 }
 
 .search {
     height: 30px;
-    width: 150px;
-    background-color: rgba(212, 193, 193, 0.775);
+    width: 200px;
+    background-color: rgba(243, 220, 220, 0.775);
+    border: none;
 }
