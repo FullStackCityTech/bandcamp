@@ -31,3 +31,13 @@ body {
     background-color: rgba(243, 220, 220, 0.775);
     border: none;
 }
+
+.menu .row .right a {
+    color: black; 
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.menu .row .right a:hover {
+    text-decoration: underline;
+}
