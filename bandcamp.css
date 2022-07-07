@@ -3,10 +3,16 @@ body {
     margin: 0;
 }
 
+#logo {
+    margin-left: -17px;
+}
+
 .menu {
     background-color: white;
     padding: 20px;
     height: 100px;
+    position: fixed;
+    width: 100%; 
 }
 
 .left {
